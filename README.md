@@ -17,7 +17,7 @@ sudo apt-get -y install build-essential cmake git ninja-build
 Then install dependencies for the project.
 
 ```shell
-sudo apt-get -y install qt5-default oce-draw liboce-\*-dev libeigen3-dev libtbb-dev zlib1g-dev
+sudo apt-get -y install qtbase5-dev oce-draw liboce-\*-dev libeigen3-dev libtbb-dev zlib1g-dev
 ```
 
 ### Building & Running
