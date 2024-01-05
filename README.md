@@ -4,7 +4,7 @@ An open source implementation of JT (Jupiter Tessellation) viewer and reader. Fo
 
 ## Getting Started
 
-This instruction will get you a copy of the project up and running on your local machine. It has been tested on Debian Linux 10 (Buster), 9 (Stretch) and 8 (Jessie).
+This instruction will get you a copy of the project up and running on your local machine. This fork has been tested on Linux Mint 21.2.
 
 ### Prerequisites
 
