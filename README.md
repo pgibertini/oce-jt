@@ -17,15 +17,15 @@ sudo apt-get -y install build-essential cmake git ninja-build
 Then install dependencies for the project.
 
 ```shell
-sudo apt-get -y install qt5-default oce-draw liboce-\*-dev libeigen3-dev libtbb-dev zlib1g-dev
+sudo apt-get -y install qtbase5-dev oce-draw liboce-\*-dev libeigen3-dev libtbb-dev zlib1g-dev
 ```
 
 ### Building & Running
 
-Clone the `cbsghost/oce-jt` project from Github repository.
+Clone the `pgibertini/oce-jt` project from Github repository.
 
 ```shell
-git clone --recursive https://github.com/cbsghost/oce-jt.git
+git clone --recursive https://github.com/pgibertini/oce-jt.git
 ```
 
 Create a build directory.
