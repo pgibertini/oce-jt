@@ -22,10 +22,10 @@ sudo apt-get -y install qtbase5-dev oce-draw liboce-\*-dev libeigen3-dev libtbb-
 
 ### Building & Running
 
-Clone the `cbsghost/oce-jt` project from Github repository.
+Clone the `pgibertini/oce-jt` project from Github repository.
 
 ```shell
-git clone --recursive https://github.com/cbsghost/oce-jt.git
+git clone --recursive https://github.com/pgibertini/oce-jt.git
 ```
 
 Create a build directory.
